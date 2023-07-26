@@ -1,5 +1,5 @@
 import React from "react";
-import "./winner.css";
+import "../../../../assets/css/winner.css";
 import Slider from "react-slick";
 import NextArrow from "../common/carousel/nextArrow";
 import PrevArrow from "../common/carousel/prevArrow";

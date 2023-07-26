@@ -1,5 +1,5 @@
 common-background{
-    background-image: url('../../../../assets/images/eventbackground.jpeg');
+    background-image: url('../images/eventbackground.jpeg');
     /* background-size: cover; */
  }
 .about-wrapper{

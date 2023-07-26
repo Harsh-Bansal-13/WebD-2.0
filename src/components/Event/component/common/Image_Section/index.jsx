@@ -1,6 +1,5 @@
 import React from "react";
-import "./imagesection.css";
-import data from "./data.json";
+import "../../../../../assets/css/eventsimagesection.css";
 import ImageSlider from "../Slider/imageSlider";
 const ImageSection = ({ slides }) => {
   return (

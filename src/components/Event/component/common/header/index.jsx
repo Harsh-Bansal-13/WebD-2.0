@@ -1,5 +1,6 @@
 import React, { useState } from "react";
-import "./header.css";
+import "../../../../../assets/css/eventheader.css";
+import "../../../../../assets/css/eventheader.css";
 import { motion } from "framer-motion";
 
 const tabs = [

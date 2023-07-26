@@ -1,5 +1,5 @@
 import React from "react";
-import "./bitcoding.css";
+import "../../../../assets/css/bitcoding.css";
 import About from "../common/About Events";
 import Winners from "../Winners/winners";
 import ImageSection from "../common/Image_Section";
