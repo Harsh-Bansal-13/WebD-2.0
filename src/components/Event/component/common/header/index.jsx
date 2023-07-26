@@ -30,7 +30,7 @@ function Header(props) {
   return (
     <div className="header">
       <motion.div
-        // whileTap={{ scale: 0.75 }}
+        whileTap={{ scale: 0.75 }}
         onClick={() => {
           setisMenu(!isMenu);
         }}

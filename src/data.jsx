@@ -35,12 +35,12 @@ export const tabData = [
 
   {
     label: "GALLERY",
-    path: "/",
+    path: "/gallery",
     backgroundImage: gallery,
   },
   {
     label: "TEAM",
-    path: "/",
+    path: "/team",
     backgroundImage: team,
   },
   {
